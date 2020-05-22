@@ -1,9 +1,0 @@
-Friend Link:
-
-
-https://medium.com/@andrei.balanescu/an-order-book-implementation-in-matlab-and-applied-machine-learning-f7d33a238bc6?sk=be2da29745b032e9ad8bfc28c2c913d0
-
-
-Story Link for Multi Media:
-
-https://medium.com/@andrei.balanescu/an-order-book-implementation-in-matlab-and-applied-machine-learning-f7d33a238bc6
