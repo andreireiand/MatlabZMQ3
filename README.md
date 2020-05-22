@@ -35,7 +35,7 @@ How to make it work:
 1) Open aMain_02.mlx and run each section up till, and excluding the last one.
 2) Start sending the Level 2 Messages (following the above "contract") through the ZeroMQ library implementation on the Sender side. 
 
-3) You will see the "executionDom" variable getting populated like a real DOM Application. 
+3) You will see the "executionDom" variable getting populated like a real DOM Application, as seen in the _Demo.png picture file.
 
 4) Start playing with it ... 
 
